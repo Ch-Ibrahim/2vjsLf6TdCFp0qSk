@@ -6,8 +6,7 @@ To run the code, the following packages must be installed:
 - scikit-learn
 - seaborn
 - xgboost
-- hyperopt
-- hpsklearn
+
 
 
 # K-fold cross-validation
