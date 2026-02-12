@@ -5,7 +5,8 @@ To run the code, the following packages must be installed:
 - matplotlib and seaborn
 - scikit-learn
 - seaborn
-- xgboost
+- imblearn
+  
 
 
 
